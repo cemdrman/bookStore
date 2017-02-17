@@ -82,8 +82,8 @@
                 </label>
             </div>
             <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
-            <div class="label">
-                <a href="kayitol.jsp">KAYIT OL
+            <div class="login-register">
+                <a href="giris.jsp">Giriş</a>
             </div>
         </form>
     </div>
