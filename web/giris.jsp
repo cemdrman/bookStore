@@ -70,7 +70,7 @@
 
 <div class="container">
     <div class="jumbotron">
-        <form class="form-signin" action="kontrol" method="post">
+        <form class="form-signin" action="/giris" method="post">
             <h2 class="form-signin-heading">Giriş Yapın</h2>
             <label for="inputEmail" class="sr-only">Email address</label>
             <input type="email" name="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
@@ -82,8 +82,8 @@
                 </label>
             </div>
             <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
-            <div class="label">
-                <a href="kayitol.jsp">KAYIT OL
+            <div class="login-register">
+                <a href="giris.jsp">Giriş</a>
             </div>
         </form>
     </div>

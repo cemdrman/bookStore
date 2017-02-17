@@ -7,4 +7,13 @@
         <servlet-name>GirisServlet</servlet-name>
         <servlet-class>controller.GirisServlet</servlet-class>
     </servlet>
+    
+    
+    
+    //-----Mapping----\\
+    
+    <servlet-mapping>
+        <servlet-name>GirisServlet</servlet-name>
+        <url-pattern>/giris</url-pattern>
+    </servlet-mapping>
 </web-app>
